@@ -20,16 +20,10 @@ Desarrollador Full-Stack apasionado por crear soluciones web eficientes, robusta
 
 ### 📊 Mis Estadísticas de GitHub
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=joxmak10&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estadísticas de joxmak10" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxmak10&layout=compact&theme=radial&hide_langs_below=1" alt="Lenguajes más usados por joxmak10" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joxmak10&show_icons=true&theme=radial&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joxmak10&layout=compact&theme=radial&hide_langs_below=1" width="48%" />
+</p>
 
 ### 📫 Cómo contactarme
 - **LinkedIn:linkedin.com/in/josma-aguilera-619104418
